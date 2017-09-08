@@ -1,7 +1,11 @@
 ###Bennett Rahn
+
 #####3620 Densmore Ave N * Seattle, WA 98103
+
 #####(509) 844-1129 * [rahnibennett@gmail.com](mailto:rahnibennett@gmail.com)
+
 ####**Experience**
+
 **Full-time Faculty**, _Billings Middle School - June 2016-present_
 
 * 6th grade World Geography teacher - responsible for lesson planning, teaching subject material related to world issues, and introducing the ideas of power and privilege.
