@@ -1,10 +1,10 @@
-###Bennett Rahn
+##Bennett Rahn
 
-#####3620 Densmore Ave N * Seattle, WA 98103
+####3620 Densmore Ave N * Seattle, WA 98103
 
-#####(509) 844-1129 * [rahnibennett@gmail.com](mailto:rahnibennett@gmail.com)
+####(509) 844-1129 * [rahnibennett@gmail.com](mailto:rahnibennett@gmail.com)
 
-####**Experience**
+###**Experience**
 
 **Full-time Faculty**, _Billings Middle School - June 2016-present_
 
@@ -31,7 +31,7 @@
 * Tour guide - creating engaging tours for diverse groups from student volunteers to preschoolers about sustainable urban agriculture.
 * Farmer - maintaining the physical space of the farm: keping beds orderly, harvesting produce, planting starts, etc.
 
-####**Other Activities**
+###**Other Activities**
 * Lifeguard and WFA certified
 * Activist with local political engagements and protests
 * Proficiency in many art forms including dance, painting, drawing, poetry, film and yoga
