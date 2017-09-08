@@ -1,4 +1,4 @@
-### Bennett Rahn
+## Bennett Rahn
 
 ##### 3620 Densmore Ave N * Seattle, WA 98103
 
